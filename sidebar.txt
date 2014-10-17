@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lgb:home|Door43 (lgb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lgb|d43-lgb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lgb/archive/master.zip|d43-lgb.zip]]
+
+**Recent Changes**
+{{changes>ns = lgb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lgb|Ethnologue data]]
+
